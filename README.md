@@ -4,9 +4,10 @@ Study the SAT & ACT Participation Rate in Ohio and recommendation ways to increa
 Data Set: 
 This Project uses United State's SAT & ACT Test Score & Participation Rate Year 2017 & 2018.
 
-Data Dictionary:
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
+Data Dictionary: 
+
+|Feature |Type |Dataset |Description |
+|------|------|------|------|
 |state|object|SAT & ACT|Participating States for SAT & ACT year 2017 & 2018| 
 |sat_18_participation|int|SAT|Participating rates for SAT year 2018|
 |sat_18_ebrw|float|SAT|Evidence-Based Reading and Writing score for SAT year 2018|
