@@ -1,5 +1,5 @@
 Problem Statement:
-Study the SAT & ACT Participation Rate in Ohio and recommendation ways to increase Participation Rate of SAT in Ohio.
+With the release of new format for SAT in March 2016, as part of the Collage Board who administers the SAT, we would like to study the trend and make recommendations where money is best spent to improve SAT participation rates.
 
 Data Set: 
 This Project uses United State's SAT & ACT Test Score & Participation Rate Year 2017 & 2018.
