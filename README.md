@@ -1,10 +1,10 @@
-Problem Statement:
+## Problem Statement:
 With the release of new format for SAT in March 2016, as part of the Collage Board who administers the SAT, we would like to study the trend and make recommendations where money is best spent to improve SAT participation rates.
 
-Data Set: 
+## Data Set: 
 This Project uses United State's SAT & ACT Test Score & Participation Rate Year 2017 & 2018.
 
-Data Dictionary: 
+## Data Dictionary: 
 
 |Feature |Type |Dataset |Description |
 |------|------|------|------|
@@ -32,13 +32,13 @@ Data Dictionary:
 |act_17_composite|object|ACT|Composite score for ACT year 2017|
 
 
-Conclusions/Recommendations:
+## Conclusions/Recommendations:
 To encourage students to be more competitive, it's recommended for the state to make SAT as a compulsory test to be taken in state high school.
 
 
 
 
-Data source: 
+## Data source: 
 1. https://www.act.org/content/dam/act/unsecured/documents/cccr2018/National-CCCR-2018.pdf
 2.https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/
 3. https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows
